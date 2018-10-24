@@ -2,7 +2,7 @@
 
 ## Install
 
-Download the workflow file and install in Alfred. Then, set the following two workflow/environment variables:
+Download the [workflow file](https://github.com/mrjones2014/alfred-youtrack-query/raw/master/YouTrack%20Query.alfredworkflow) and install in Alfred. Then, set the following two workflow/environment variables:
 
 1. `baseUrl`: the base URL to your YouTrack installation, e.g. https://<span></span>youtrack.mydomain.com
 2. `token`: an access token for your YouTrack account. You can generate an access token by going to Profile>Hub account>Authentication
